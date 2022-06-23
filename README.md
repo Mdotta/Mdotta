@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB"></p>
 <p><img src="https://img.shields.io/badge/Unity-666666.svg?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity"></p>
 
-<h2 style="border-bottom: 1px solid var(--color-border-muted)">📊 GitHub Stats:</h2>
+<h2">📊 GitHub Stats:</h2>
 <div align="center">
 <p><img src="https://github-readme-stats.vercel.app/api?username=mdotta&amp;theme=blueberry&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=true"  height="180em">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdotta&amp;theme=blueberry&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=true&amp;layout=compact" height="180em"></p>
