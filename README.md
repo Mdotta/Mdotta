@@ -6,9 +6,11 @@
 
 - 📫 You can reach me at **md.correa+contacts@outlook.com**
 <hr dir="auto">
-<div align="center">
+<div align="center" dir="auto">
+<a href="https://github.com/mdotta">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdotta&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true" alt="mdotta" style="max-width:100%;"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdotta&show_icons=true&locale=en&layout=compact&langs_count=7&theme=tokyonight" alt="mdotta" style="max-width:100%;"/>
+</a>
 </div>
 
 <h3 align="left">Connect with me:</h3>
