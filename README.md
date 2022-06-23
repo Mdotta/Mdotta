@@ -1,29 +1,21 @@
-<h1 align="center">Hi, I'm Dotta</h1>
-<h3 align="center">An introvert game Dev</h3>
-<h6 align="center">He/Him</h6>
-<p align="center">
-<a href="mailto:md.correa+contact@outlook.com"><img src="https://img.shields.io/badge/-Outlook-06283D?style=for-the-badge&amp;logo=Mail.Ru&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://linkedin.com/in/mdotta"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&amp;logo=Mail.Ru&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://twitter.com/@callmedotta"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&amp;logo=Mail.Ru&amp;logoColor=white" style="max-width: 100%;"></a>
-</p>
-<p align="center"> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> </a> 
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="30" height="30"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/> </a> 
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="30" height="30"/> </a> 
-</p>
+
+<h2>🌐 Socials:</h2>
+<p><a href="https://linkedin.com/in/mdotta"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a> <a href="https://twitter.com/callmedotta"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&amp;logoColor=white" alt="Twitter"></a> </p>
+
+<h1>💻 Tech Stack:</h1>
+<p><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&amp;logo=c-sharp&amp;logoColor=white" alt="C#"> 
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&amp;logo=python&amp;logoColor=ffdd54" alt="Python"> </p>
+<p><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&amp;logo=firebase" alt="Firebase"> 
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker"></p>
+<p><img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&amp;logo=insomnia&amp;logoColor=5849BE" alt="Insomnia"> </p>
+<p><img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&amp;logo=microsoft%20sql%20server&amp;logoColor=white" alt="MicrosoftSQLServer"> 
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB"></p>
+<p><img src="https://img.shields.io/badge/Unity-666666.svg?style=for-the-badge&amp;logo=unity&amp;logoColor=white" alt="Unity"></p>
+
+<h2 style="border-bottom: 1px solid var(--color-border-muted)">📊 GitHub Stats:</h2>
 <div align="center">
-  <a href="https://github.com/mdotta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdotta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdotta&layout=compact&langs_count=7&theme=tokyonight"/>
+<p><img src="https://github-readme-stats.vercel.app/api?username=mdotta&amp;theme=blueberry&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=true"  height="180em">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdotta&amp;theme=blueberry&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=true&amp;layout=compact" height="180em"></p>
 </div>
-<br/>
-
-
 
 
