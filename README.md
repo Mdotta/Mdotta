@@ -1,7 +1,7 @@
 <h3 align="center">He/Him</h3>
-<!-- <div align="center">
+<div align="center">
 <img src="https://media.discordapp.net/attachments/989556492095078431/989556589285478480/logo_Circulo.png?width=676&height=676" alt="csharp" width="120" height="120"/>
-</div> -->
+</div>
 <h1 align="center">Hi, I'm Dotta</h1>
 <p align="center">
 <a href="mailto:md.correa+contact@outlook.com"><img src="https://img.shields.io/badge/-Email-06283D?logo=Mail.Ru&amp;logoColor=white"></a>
@@ -10,8 +10,8 @@
 </p>
 <div align="center">
   <a href="https://github.com/mdotta">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdotta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdotta&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdotta&amp;theme=blueberry&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdotta&amp;theme=blueberry&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=true&amp;layout=compact"/>
   </a>
 </div>
 <br/>
