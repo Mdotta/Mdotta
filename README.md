@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Unreal Engine**
 
 - 📫 You can reach me at **md.correa+contacts@outlook.com**
-<hr class="solid">
+<hr dir="auto">
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdotta&show_icons=true&locale=en&theme=tokyonight&include_all_commits=true&count_private=true" alt="mdotta" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdotta&show_icons=true&locale=en&layout=compact&langs_count=7&theme=tokyonight" alt="mdotta" />
