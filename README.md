@@ -1,12 +1,8 @@
 <h3 align="center">He/Him</h3>
-<div align="center">
-<img src="https://media.discordapp.net/attachments/989556492095078431/989556589285478480/logo_Circulo.png?width=676&height=676" alt="csharp" width="120" height="120"/>
-</div>
-<h1 align="center">Hi, I'm Dotta</h1>
+<h1 align="center">Hi, I'm Dotta!</h1>
 <p align="center">
 <a href="mailto:md.correa+contact@outlook.com"><img src="https://img.shields.io/badge/-Email-06283D?logo=Mail.Ru&amp;logoColor=white"></a>
 <a href="https://linkedin.com/in/mdotta"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=LinkedIn&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://twitter.com/@callmedotta"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=Twitter&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 <div align="center">
   <a href="https://github.com/mdotta">
