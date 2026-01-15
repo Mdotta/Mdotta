@@ -12,4 +12,6 @@ I enjoy working with CLI projects that make my life easier but I plan on working
 When I have some time and energy, I usually spend it learning Go or some other new tech that caught my attention somewhere on the internet.
 
 ### My hobbies
-I enjoy gaming (mainly FPS or adventure but I appreciate every genre), music and bouldering (kinda new to it, been falling a lot).
+I enjoy gaming, music, gym and bouldering (kinda new to it, been falling a lot).
+
+Those are the main things but I'm always trying something new!
