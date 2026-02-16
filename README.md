@@ -2,10 +2,10 @@
 ### About me
 Hey! Welcome to my github page! I'm Dotta, a software developer with some background in gamedev. 
 
-Working with software is my dream job since I was 12 (I didn't know the name of it at the time, but I knew I wanted to make computer things).
+Working with software is my dream job since I was 12 (I didn't know the name of it at the time, but I knew I wanted to make computers do things).
 
 ### What I'm working on
-Most of my free time is spent on my post-grad project so I my personal projects are on hold for now.
+Most of my free time is spent on my post-grad project so my personal projects are on hold for now.
 
 I enjoy working with CLI projects that make my life easier but I plan on working in some open source projects in the close future!
 
